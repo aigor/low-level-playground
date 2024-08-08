@@ -11,4 +11,5 @@ The following examples should be implemented here:
 - C application compiled to WASM (wasm vs wat) and executed in a browser
 - Makefiles as a building infrastructure
 - C3 language examples (using SIMD)
-- Zig language examples 
+- Zig language examples
+- GitHub workflow usage example (compile and test simple application)
