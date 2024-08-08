@@ -1,4 +1,4 @@
-# Low-level Playground
+# Low-Level Playground
 
 Remembering how computers work: ASM, C, syscalls. 
 
